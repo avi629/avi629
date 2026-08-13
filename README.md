@@ -9,8 +9,8 @@
 
 - 🏨 Hotel Booking System — Flask, SQLite
 - 🌦️ Weather Forecast Web App — HTML, CSS, JavaScript
-- 🧩 Online Quiz Platform — Python, MySQL
-- 🔗 Donation Platform — Ethereum & Blockchain
+- 🧩 Online Quiz Platform — Python , flask , MySQL
+- 🔗 Donation Platform —Solidity , Ethereum & Blockchain
 
 ## 🌱 Currently Learning
 
